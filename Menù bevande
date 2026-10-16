@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Menù Bevande</title>
+</head>
+<body>
+
+    <h1>Menù Bevande</h1>
+
+    <h2>Acqua e Bibite</h2>
+    <p>Acqua naturale - € 1,50</p>
+    <p>Acqua frizzante - € 1,50</p>
+    <p>Coca-Cola - € 3,00</p>
+    <p>Aranciata - € 3,00</p>
+
+    <h2>Birre</h2>
+    <p>Birra piccola - € 3,00</p>
+    <p>Birra media - € 5,00</p>
+
+    <h2>Vini</h2>
+    <p>Vino bianco - € 4,00</p>
+    <p>Vino rosso - € 4,00</p>
+
+    <h2>Caffetteria</h2>
+    <p>Caffè - € 1,50</p>
+    <p>Cappuccino - € 2,00</p>
+    <p>Tè - € 3,00</p>
+
+</body>
+</html>
