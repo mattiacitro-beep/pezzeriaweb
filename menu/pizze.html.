@@ -1,6 +1,35 @@
-&lt;h2&gt;Menù Pizze&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Margherita - 6€&lt;/li&gt;
-&lt;li&gt;Diavola - 7€&lt;/li&gt;
-&lt;li&gt;Quattro Formaggi - 8€&lt;/li&gt;
-&lt;/ul&gt;
+<h2>Menù Pizze</h2>
+<ul>
+    <li>
+         <img src="margherita.jpg" width="150">
+        <h3>Margherita</h3>
+        <p>Pomodoro, mozzarella e basilico</p>
+        <strong>€ 6,00</strong>
+    </li>
+    <li>
+         <img src="diavola.jpg" width="150">
+        <h3>Diavola</h3>
+        <p>Pomodoro, mozzarella e salame piccante</p>
+        <strong>€ 8,00</strong>
+    </li>
+    <li>
+         <img src="quattroformaggi.jpg" width="150">
+        <h3>Quattro Formaggi</h3>
+        <p>Mozzarella, gorgonzola, fontina e parmigiano</p>
+        <strong>€ 9,00</strong>
+    </li>
+
+    <li>
+         <img src="salsiccia-patatine.jpg" width="150">
+        <h3>Salsiccia e patatine</h3>
+        <p>salsiccia, mozzarella e patatine</p>
+        <strong>€ 8,50</strong>
+    </li>
+
+    <li>
+         <img src="bianca-al-cotto.jpg" alt="Pizza Quattro Formaggi" width="150">
+        <h3>Bianca al cotto</h3>
+        <p>mozzarella e prosciutto cotto</p>
+        <strong>€ 8,50</strong>
+    </li>
+</ul>
