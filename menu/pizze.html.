@@ -1,5 +1,4 @@
 <h2>Menù Pizze</h2>
-<ul>
     <li>
          <img src="margherita.jpg" width="150">
         <h3>Margherita</h3>
@@ -32,4 +31,3 @@
         <p>mozzarella e prosciutto cotto</p>
         <strong>€ 8,50</strong>
     </li>
-</ul>
